@@ -2,8 +2,8 @@
   
 ## 👋 Hey there, I’m Maheswari Pinneti
 
-🚀 **Frontend Developer** | **Generative AI Enthusiast** | **Python & Flask Developer** from India  
-Passionate about building intelligent, responsive, and scalable web apps with a creative touch 💡
+🚀 **Frontend Developer** | **Generative AI Enthusiast** | **Python & Flask Developer** 
+from India Passionate about building intelligent, responsive, and scalable web apps with a creative touch 💡
 </div>
 
 ---
@@ -72,7 +72,7 @@ Passionate about building intelligent, responsive, and scalable web apps with a 
 `TensorFlow` • `PyTorch` • `OpenCV` • `Scikit-learn` • `Pandas` • `Seaborn`
 
 **Others:**  
-`Git` • `Bash` • `Power BI`
+`Git` • `Bash` 
 
 ---
 
