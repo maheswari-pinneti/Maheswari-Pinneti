@@ -103,6 +103,7 @@ from India Passionate about building intelligent, responsive, and scalable web a
 
 </div>
 ---
+
 <div align="center">
 ## 🏆 Achievements
 
@@ -111,6 +112,7 @@ from India Passionate about building intelligent, responsive, and scalable web a
 🎯 **75+ LeetCode Problems Solved** @ [LeetCode](https://leetcode.com/u/Maheswari_pinneti/)
 
 </div>
+
 ---
 
 ## 📌 Certifications
