@@ -98,6 +98,7 @@ from India Passionate about building intelligent, responsive, and scalable web a
 ---
 
 <div align="center">
+  
 ### 🖼️ GitHub Profile Trophy
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=onestar)
@@ -106,6 +107,7 @@ from India Passionate about building intelligent, responsive, and scalable web a
 ---
 
 <div align="center">
+  
 ## 🏆 Achievements
 
 🥇 **5★ Python** @ [HackerRank](https://www.hackerrank.com/profile/pinnetimaheswari)  
