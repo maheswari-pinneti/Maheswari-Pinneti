@@ -1,3 +1,4 @@
+<div align="center">
 ## 👋 Hey there, I’m Maheswari Pinneti
 
 🚀 **Frontend Developer** | **Generative AI Enthusiast** | **Python & Flask Developer** from India  
@@ -91,3 +92,4 @@ Passionate about building intelligent, responsive, and scalable web apps with a 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=onestar)
 
 ---
+</div>
