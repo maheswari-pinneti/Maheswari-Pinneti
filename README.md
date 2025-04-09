@@ -82,15 +82,42 @@ Passionate about building intelligent, responsive, and scalable web apps with a 
 
 ---
 
+<div align="center">
 ## ⭐ GitHub Stats
 
 ![Maheswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&theme=radical)
 
+### 🧠 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Maheswari_pinneti/)
+
+</div>
+
 ---
 
+<div align="center">
 ### 🖼️ GitHub Profile Trophy
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=onestar)
 
+</div>
 ---
+<div align="center">
+## 🏆 Achievements
+
+🥇 **5★ Python** @ [HackerRank](https://www.hackerrank.com/profile/pinnetimaheswari)  
+🥈 **6★ Problem Solving** @ [HackerRank](https://www.hackerrank.com/profile/pinnetimaheswari)  
+🎯 **75+ LeetCode Problems Solved** @ [LeetCode](https://leetcode.com/u/Maheswari_pinneti/)
+
+</div>
+---
+
+## 📌 Certifications
+
+🏆 Google Cloud Generative AI – Skill Boost *(Jan 2025)*  
+🏆 Artificial Intelligence – 1Stop *(May 2023)*  
+🎖 Deep Learning Specialization – *Coursera | Andrew Ng*  
+📜 TensorFlow Developer Certification – *Google*  
+💡 Frontend Web Development – *Udacity Nanodegree*
+
