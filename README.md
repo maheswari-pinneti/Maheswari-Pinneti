@@ -1,127 +1,107 @@
-<div align="center">
-  
-## 👋 Hey there, I’m Maheswari Pinneti
+# 👋 Hey there, I’m Maheswari Pinneti  
 
-🚀 **Frontend Developer** | **Generative AI Enthusiast** | **Python & Flask Developer** 
-</div>
+🚀 **Frontend Developer** | 🤖 **Generative AI Enthusiast** | 🐍 **Python & Flask Developer** | ⚡ **Salesforce LWC Developer (in progress)**
 
 ---
 
-### 🔍 Currently Working On:
+## 🔭 Currently Working On
 
-- 🍴 **Zomato Dataset Analysis** with LLMs for food insights  
-- 🩻 **Chest X-ray Disease Classifier** using DenseNet + Grad-CAM + Flask
-
----
-
-### 🌱 Learning & Exploring:
-
-- 🧠 Generative AI (LLMs, Vision, Transformers)  
-- 🔧 Advanced **Flask** & **Django** for robust web backends  
-- 👁️ **Computer Vision** with TensorFlow & OpenCV
+- 🧠 **QuickBlog Summarizer** – AI-powered blog scraper and summarizer using Hugging Face + Flask  
+- 💼 **AI Career Coach Chatbot** – Personalized resume/LinkedIn assistant built with Flask & React  
+- 🌐 **Portfolio Website v2** – Responsive web app showcasing skills, projects, and AI tools
 
 ---
 
-### 🤝 Open to Collaborate On:
+## 🌱 Learning & Exploring
 
-- 🧐 AI/ML Research & Web Dev Projects  
-- 🧪 Deep Learning, Model Optimization, Prompt Engineering  
-- 🌐 Full-stack Projects with AI integrations
-
----
-
-### 💬 Ask Me About:
-
-`React` • `Flask` • `TensorFlow` • `Python` • `Computer Vision` • `AI/ML`
+- 🧠 **Generative AI** – LLMs, Transformers, Prompt Engineering  
+- 🔧 **Advanced Flask & Django** – Secure, production-ready web backends  
+- 🎯 **Salesforce LWC & Apex** – Trailblazer journey in declarative & programmatic dev  
+- 📸 **Computer Vision** – TensorFlow, Grad-CAM, OpenCV pipelines
 
 ---
 
-### 📌 All My Projects
+## 🤝 Open to Collaborate On
 
-🔗 [GitHub Portfolio »](https://github.com/maheswari-pinneti)  
-📝 I write insightful dev stories on [Dev.to »](https://dev.to/maheswaripinneti)
-
----
-
-### 📬 Let’s Connect
-
-- 📧 **Email:** pinnetimaheswari17@gmail.com  
-- 💼 **LinkedIn:** [Maheswari Pinneti](https://www.linkedin.com/in/maheswari-pinneti/)  
-- 💻 **GitHub:** [maheswari-pinneti](https://github.com/maheswari-pinneti)  
-- 💬 **CodePen:** [pinneti-maheswari](https://codepen.io/pinneti-maheswari)  
-- 📚 **Dev.to:** [maheswaripinneti](https://dev.to/maheswaripinneti)  
-- 🎨 **Behance:** [maheswapinneti](https://www.behance.net/maheswapinneti)  
-- 📸 **Instagram:** [@maheswari_pinneti](https://www.instagram.com/maheswari_pinneti/)  
-- 📊 **Kaggle:** [maheswaripinnetii](https://www.kaggle.com/maheswaripinnetii)
+- 🧠 **AI/ML Projects & Fine-tuning**  
+- 💻 **AI-powered Web Apps** (Full-stack)  
+- ⚙️ **Salesforce & LWC Projects**  
+- ✨ **Hackathons, Open Source, Student Programs**
 
 ---
 
-### 🛠️ Languages & Tools
+## 💬 Ask Me About
 
-**Languages & Frameworks:**  
-`Python` • `JavaScript` • `HTML5` • `CSS3` • `MySQL`
+`React.js` • `Flask` • `Salesforce LWC` • `Generative AI` • `TensorFlow` • `JavaScript` • `Prompt Engineering` • `Computer Vision`
+
+---
+
+## 🛠️ Languages & Tools
+
+**Languages & Databases:**  
+`Python` • `JavaScript` • `HTML5` • `CSS3` • `MySQL` • `Apex`
 
 **Frontend:**  
-`React` • `TailwindCSS` • `Bootstrap` • `SASS` • `Materialize` • `CanvasJS`
+`React.js` • `TailwindCSS` • `Bootstrap` • `SASS` • `Material UI` • `CanvasJS` • `LWC`
 
-**Backend:**  
-`Flask` • `Django`
+**Backend & Tools:**  
+`Flask` • `Django` • `Salesforce Platform` • `Node.js (basics)` • `Git` • `VSCode` • `Bash`
 
 **AI/ML Stack:**  
-`TensorFlow` • `PyTorch` • `OpenCV` • `Scikit-learn` • `Pandas` • `Seaborn`
-
-**Others:**  
-`Git` • `Bash` 
+`TensorFlow` • `PyTorch` • `Hugging Face` • `OpenCV` • `Scikit-learn` • `Pandas` • `Seaborn`
 
 ---
 
-### ⚡ Fun Fact
-
-> _I think I’m funny... until I debug someone else’s code at 2 AM 😅_
-
----
-
-<div align="center">
-  
-## ⭐ GitHub Stats
-
-![Maheswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&theme=radical)
-
-### 🧠 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Maheswari_pinneti/)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🖼️ GitHub Profile Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=onestar)
-
-</div>
----
-
-<div align="center">
-  
 ## 🏆 Achievements
 
-🥇 **5★ Python** @ [HackerRank](https://www.hackerrank.com/profile/pinnetimaheswari)  
-🥈 **6★ Problem Solving** @ [HackerRank](https://www.hackerrank.com/profile/pinnetimaheswari)  
-🎯 **75+ LeetCode Problems Solved** @ [LeetCode](https://leetcode.com/u/Maheswari_pinneti/)
-
-</div>
+- 🥇 **5★ Python** on HackerRank  
+- 🥈 **6★ Problem Solving** on HackerRank  
+- 💡 Solved **75+ Problems** on LeetCode  
+- 📊 Built and Deployed ML Models in Real Projects  
+- 📚 Consistent Open Source Contributor and Learner
 
 ---
 
-## 📌 Certifications
+## 📜 Certifications
 
-🏆 Google Cloud Generative AI – Skill Boost *(Jan 2025)*  
-🏆 Artificial Intelligence – 1Stop *(May 2023)*  
-🎖 Deep Learning Specialization – *Coursera | Andrew Ng*  
-📜 TensorFlow Developer Certification – *Google*  
-💡 Frontend Web Development – *Udacity Nanodegree*
+- ✅ **TensorFlow Developer Certification** – Google  
+- ✅ **Deep Learning Specialization** – Coursera by Andrew Ng  
+- 🎓 **Frontend Web Dev Nanodegree** – Udacity  
+- 🌩️ **Google Cloud: Gen AI** – Skill Boost  
+- 🧠 **CSS & HTML Mastery** – LinkedIn Learning  
+- 🧪 **AI by 1Stop.ai** – Project-Based AI Learning
+
+---
+
+## 🔗 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maheswari-pinneti)  
+- 💻 [GitHub](https://github.com/maheswari-pinneti)  
+- 📝 [Dev.to](https://dev.to/maheswaripinneti)  
+- 🎨 [Behance](https://www.behance.net/maheswapinneti)  
+- 📸 [Instagram](https://instagram.com/maheswari_pinneti)  
+- 📧 Email: pinnetimaheswari17@gmail.com  
+- 📊 [Kaggle](https://www.kaggle.com/maheswaripinnetii)  
+- 💬 [CodePen](https://codepen.io/PINNETI-MAHESWARI)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&theme=tokyonight)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=tokyonight&no-frame=true&column=4)  
+![GitHub Streak](https://streak-stats.demolab.com?user=maheswari-pinneti&theme=tokyonight&hide_border=false)
+
+---
+
+## 📌 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=light&font=Fira%20Code&ext=contest)
+
+---
+
+## 🧠 Fun Fact
+
+> I think I’m funny... until I debug someone else’s code at 2 AM 😅
 
