@@ -82,7 +82,8 @@
 - 📸 [Instagram](https://instagram.com/maheswari_pinneti)  
 - 📧 Email: pinnetimaheswari17@gmail.com  
 - 📊 [Kaggle](https://www.kaggle.com/maheswaripinnetii)  
-- 💬 [CodePen](https://codepen.io/PINNETI-MAHESWARI)
+- 💬 [CodePen](https://codepen.io/PINNETI-MAHESWARI)  
+- 👩‍💻 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/pinnetimaheswari17/profile)
 
 ---
 
@@ -99,9 +100,14 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=light&font=Fira%20Code&ext=contest)
 
+## 📌 Geekforgeeks stats
+
+
+[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/maheswaripinneti)](https://www.geeksforgeeks.org/user/maheswaripinneti/)
+
+
 ---
 
 ## 🧠 Fun Fact
 
 > I think I’m funny... until I debug someone else’s code at 2 AM 😅
-
