@@ -79,11 +79,12 @@
 - 💻 [GitHub](https://github.com/maheswari-pinneti)  
 - 📝 [Dev.to](https://dev.to/maheswaripinneti)  
 - 🎨 [Behance](https://www.behance.net/maheswapinneti)  
-- 📸 [Instagram](https://instagram.com/maheswari_pinneti)  
+- 📸 [Instagram](https://www.instagram.com/chowdary_1703/)  
 - 📧 Email: pinnetimaheswari17@gmail.com  
 - 📊 [Kaggle](https://www.kaggle.com/maheswaripinnetii)  
 - 💬 [CodePen](https://codepen.io/PINNETI-MAHESWARI)  
 - 👩‍💻 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/pinnetimaheswari17/profile)
+- 👻 [SnapChat](https://www.snapchat.com/@chowdary.1717?share_id=7kUNEnblDsk&locale=en-GB)
 
 ---
 
