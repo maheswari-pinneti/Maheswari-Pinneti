@@ -10,8 +10,6 @@ Passionate about **problem-solving, learning new tech, and sharing knowledge**.
 ## 🔭 Currently Working On
 ### ⚡ Salesforce Projects
 [![Farmace](https://img.shields.io/badge/Farmace-Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)](#)  
-[![Showroom](https://img.shields.io/badge/Showroom-Salesforce-green?style=for-the-badge&logo=salesforce&logoColor=white)](#)  
-[![Tractor Project](https://img.shields.io/badge/Tractor-Salesforce-orange?style=for-the-badge&logo=salesforce&logoColor=white)](#)  
 
 ### 🌐 Web Projects
 [![Portfolio Website v2](https://img.shields.io/badge/Portfolio_Website-v2-purple?style=for-the-badge&logo=react&logoColor=white)](#)  
