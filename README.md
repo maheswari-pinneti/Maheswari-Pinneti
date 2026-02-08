@@ -1,114 +1,90 @@
-# 👋 Hey there, I’m Maheswari Pinneti  
+# 👋 Hi, I’m Maheswari Pinneti
 
-🚀 **Frontend Developer** | 🤖 **Generative AI Enthusiast** | 🐍 **Python & Flask Developer** | ⚡ **Salesforce LWC Developer (in progress)**
+🚀 **Frontend & Web Developer | Salesforce LWC Developer | Python & AI/ML Enthusiast**  
+
+I build **Salesforce solutions, AI-powered web apps, and interactive frontends**.  
+Passionate about **problem-solving, learning new tech, and sharing knowledge**.  
 
 ---
 
 ## 🔭 Currently Working On
+### ⚡ Salesforce Projects
+[![Farmace](https://img.shields.io/badge/Farmace-Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)](#)  
+[![Showroom](https://img.shields.io/badge/Showroom-Salesforce-green?style=for-the-badge&logo=salesforce&logoColor=white)](#)  
+[![Tractor Project](https://img.shields.io/badge/Tractor-Salesforce-orange?style=for-the-badge&logo=salesforce&logoColor=white)](#)  
 
-- 🧠 **QuickBlog Summarizer** – AI-powered blog scraper and summarizer using Hugging Face + Flask  
-- 💼 **AI Career Coach Chatbot** – Personalized resume/LinkedIn assistant built with Flask & React  
-- 🌐 **Portfolio Website v2** – Responsive web app showcasing skills, projects, and AI tools
+### 🌐 Web Projects
+[![Portfolio Website v2](https://img.shields.io/badge/Portfolio_Website-v2-purple?style=for-the-badge&logo=react&logoColor=white)](#)  
 
 ---
 
 ## 🌱 Learning & Exploring
-
-- 🧠 **Generative AI** – LLMs, Transformers, Prompt Engineering  
-- 🔧 **Advanced Flask & Django** – Secure, production-ready web backends  
-- 🎯 **Salesforce LWC & Apex** – Trailblazer journey in declarative & programmatic dev  
-- 📸 **Computer Vision** – TensorFlow, Grad-CAM, OpenCV pipelines
+- **Generative AI & LLMs:** Transformers, Prompt Engineering  
+- **Advanced Flask & Django:** Secure, production-ready backends  
+- **Salesforce LWC & Apex:** Declarative & programmatic dev  
+- **Computer Vision & AI/ML:** TensorFlow, PyTorch, Grad-CAM, OpenCV  
 
 ---
 
 ## 🤝 Open to Collaborate On
-
-- 🧠 **AI/ML Projects & Fine-tuning**  
-- 💻 **AI-powered Web Apps** (Full-stack)  
-- ⚙️ **Salesforce & LWC Projects**  
-- ✨ **Hackathons, Open Source, Student Programs**
+- Salesforce & LWC projects  
+- AI/ML projects & model fine-tuning  
+- AI-powered full-stack web apps  
+- Frontend & full-stack web development  
+- Hackathons, open source, and student programs  
 
 ---
 
 ## 💬 Ask Me About
-
-`React.js` • `Flask` • `Salesforce LWC` • `Generative AI` • `TensorFlow` • `JavaScript` • `Prompt Engineering` • `Computer Vision`
+**Salesforce, Web Development, Python, AI/ML, React.js, Flask, Prompt Engineering, Computer Vision**  
 
 ---
 
-## 🛠️ Languages & Tools
-
-**Languages & Databases:**  
-`Python` • `JavaScript` • `HTML5` • `CSS3` • `MySQL` • `Apex`
-
-**Frontend:**  
-`React.js` • `TailwindCSS` • `Bootstrap` • `SASS` • `Material UI` • `CanvasJS` • `LWC`
-
-**Backend & Tools:**  
-`Flask` • `Django` • `Salesforce Platform` • `Node.js (basics)` • `Git` • `VSCode` • `Bash`
-
-**AI/ML Stack:**  
-`TensorFlow` • `PyTorch` • `Hugging Face` • `OpenCV` • `Scikit-learn` • `Pandas` • `Seaborn`
+## ⚡ Skills Showcase
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)  
+![Salesforce](https://img.shields.io/badge/Salesforce-85%25-blue?style=for-the-badge&logo=salesforce&logoColor=white)  
+![AI/ML](https://img.shields.io/badge/AI/ML-80%25-orange?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Web Development](https://img.shields.io/badge/Web_Development-95%25-purple?style=for-the-badge&logo=html5&logoColor=white)  
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-85%25-black?style=for-the-badge&logo=flask&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-90%25-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ---
 
 ## 🏆 Achievements
-
-- 🥇 **5★ Python** on HackerRank  
-- 🥈 **6★ Problem Solving** on HackerRank  
-- 💡 Solved **75+ Problems** on LeetCode  
-- 📊 Built and Deployed ML Models in Real Projects  
-- 📚 Consistent Open Source Contributor and Learner
+- ⭐ Solved 75+ problems on LeetCode  
+- 🥇 5★ Python on HackerRank  
+- 🥈 6★ Problem Solving on HackerRank  
+- 📊 Built & deployed ML models in real projects  
+- 📚 Contributor to open source & learning resources  
 
 ---
 
 ## 📜 Certifications
-
-- ✅ **TensorFlow Developer Certification** – Google  
-- ✅ **Deep Learning Specialization** – Coursera by Andrew Ng  
-- 🎓 **Frontend Web Dev Nanodegree** – Udacity  
-- 🌩️ **Google Cloud: Gen AI** – Skill Boost  
-- 🧠 **CSS & HTML Mastery** – LinkedIn Learning  
-- 🧪 **AI by 1Stop.ai** – Project-Based AI Learning
-
----
-
-## 🔗 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/maheswari-pinneti)  
-- 💻 [GitHub](https://github.com/maheswari-pinneti)  
-- 📝 [Dev.to](https://dev.to/maheswaripinneti)  
-- 🎨 [Behance](https://www.behance.net/maheswapinneti)  
-- 📸 [Instagram](https://www.instagram.com/chowdary_1703/)  
-- 📧 Email: pinnetimaheswari17@gmail.com  
-- 📊 [Kaggle](https://www.kaggle.com/maheswaripinnetii)  
-- 💬 [CodePen](https://codepen.io/PINNETI-MAHESWARI)  
-- 👩‍💻 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/pinnetimaheswari17/profile)
-- 👻 [SnapChat](https://www.snapchat.com/@chowdary.1717?share_id=7kUNEnblDsk&locale=en-GB)
+- ✅ **Google Cloud Generative AI – Skill Boost** (Jan 2025)  
+- ✅ **TensorFlow Developer Certification – Google**  
+- ✅ **Deep Learning Specialization – Coursera (Andrew Ng)**  
+- ✅ **Artificial Intelligence – 1Stop.ai**  
+- ✅ **Frontend Web Development Nanodegree – Udacity**  
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=tokyonight&no-frame=true&column=4)  
-![GitHub Streak](https://streak-stats.demolab.com?user=maheswari-pinneti&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheswari-Pinneti&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswari-Pinneti&layout=compact&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maheswari-Pinneti&theme=radical)  
+![LeetCode Stats](https://leetcode-stats.vercel.app/?username=Maheswari_pinneti&theme=dark)  
 
 ---
 
-## 📌 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Maheswari_pinneti?theme=light&font=Fira%20Code&ext=contest)
-
-## 📌 Geekforgeeks stats
-
-
-[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/maheswaripinneti)](https://www.geeksforgeeks.org/user/maheswaripinneti/)
-
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheswari-pinneti/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Maheswari-Pinneti)  
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/maheswaripinneti)  
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/PINNETI-MAHESWARI)  
+📧 pinnetimaheswari17@gmail.com  
 
 ---
 
 ## 🧠 Fun Fact
-
-> I think I’m funny... until I debug someone else’s code at 2 AM 😅
+I think I’m funny… until I debug someone else’s code at 2 AM 😅
