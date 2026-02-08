@@ -45,7 +45,6 @@ Passionate about **problem-solving, learning new tech, and sharing knowledge**.
 ![Salesforce](https://img.shields.io/badge/Salesforce-85%25-blue?style=for-the-badge&logo=salesforce&logoColor=white)  
 ![AI/ML](https://img.shields.io/badge/AI/ML-80%25-orange?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Web Development](https://img.shields.io/badge/Web_Development-95%25-purple?style=for-the-badge&logo=html5&logoColor=white)  
-![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-85%25-black?style=for-the-badge&logo=flask&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-90%25-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
