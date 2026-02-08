@@ -69,11 +69,20 @@ Passionate about **problem-solving, learning new tech, and sharing knowledge**.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheswari-Pinneti&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswari-Pinneti&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maheswari-Pinneti&theme=radical)  
-![LeetCode Stats](https://leetcode-stats.vercel.app/?username=Maheswari_pinneti&theme=dark)  
+## 📊 GitHub & Coding Stats
+
+### GitHub Stats
+![Maheswari-Pinneti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheswari-Pinneti&show_icons=true&count_private=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheswari-Pinneti&layout=compact&theme=radical)
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maheswari-Pinneti&theme=radical)
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Maheswari_pinneti&theme=dark)
+
 
 ---
 
