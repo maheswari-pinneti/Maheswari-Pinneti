@@ -1,12 +1,13 @@
+
 # 👋 Hi, I'm Maheswari Pinneti
 
 <div align="center">
 
-# 📊 Aspiring Data Analyst | Power BI Developer | SQL & Python Enthusiast
+# 🚀 Frontend Developer | AI & ML Enthusiast | Salesforce Developer | Power BI Developer | Data Analyst
 
-### Turning Data into Insights • Dashboards into Stories • Analysis into Business Value
+### Building Intelligent Applications • Creating Insightful Dashboards • Solving Real-World Problems with Technology
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Business+Intelligence+Enthusiast;Financial+Crime+Analytics+Explorer;Turning+Data+into+Actionable+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Salesforce+Developer;Power+BI+Developer;Data+Analyst;Python+Developer;Building+AI-Powered+Applications;Turning+Data+into+Business+Insights" />
 
 </div>
 
@@ -14,155 +15,331 @@
 
 ## 🚀 About Me
 
-I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through analytics, visualization, and storytelling.
+I am a passionate technology enthusiast with expertise across multiple domains including **Frontend Development, Artificial Intelligence, Salesforce Development, Power BI, and Data Analytics**.
 
-I enjoy solving business problems using data and building dashboards that help organizations make informed decisions.
+I enjoy building modern web applications, AI-powered solutions, interactive dashboards, and business intelligence systems that solve real-world problems.
 
-- 📊 Data Analytics & Business Intelligence
-- 📈 Dashboard Development & Data Visualization
-- 🐍 Python for Data Analysis
-- 🗄️ SQL & Database Analytics
-- 📉 Statistical Analysis
+### 💡 Areas of Interest
+
+- 🌐 Frontend Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Salesforce Development
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🐍 Python Development
 - 💰 Financial Crime Analytics
-- 🤖 AI-Powered Analytics Solutions
+- 🚀 Generative AI Applications
+- 📉 Data Visualization
+- 🛠 Full Stack Development
 
 ---
 
 ## 🎯 Career Objective
 
-To leverage analytical thinking, business intelligence tools, and data visualization techniques to help organizations make data-driven decisions and improve operational performance.
+To leverage my skills in software development, AI, analytics, and business intelligence to create innovative solutions that drive business growth and improve user experiences.
 
 ---
 
 ## 🔭 Currently Working On
 
-### 📊 Data Analytics Projects
+### 🌐 Frontend Development
+
+- Personal Portfolio Website
+- Modern React Applications
+- Responsive Web Interfaces
+- Interactive UI Components
+
+### 🤖 AI & Machine Learning
+
+- AI Career Coach Chatbot
+- QuickBlog Summarizer
+- Deep Fake Face Detection
+- Chest X-ray Disease Classification
+
+### ☁️ Salesforce Development
+
+- Salesforce LWC Projects
+- Apex Programming
+- Salesforce CRM Solutions
+- Lightning Web Components
+
+### 📊 Data Analytics & Power BI
 
 - Fashion Trend Analysis
 - Healthcare Operations Analytics
-- Airbnb Listings & Pricing Analysis
+- Airbnb Listings Analysis
 - Retail Supply Chain Analytics
 - NYC Taxi Trip Analytics
-- Movie & Streaming Analytics
-- Customer Churn Analysis
 - Financial Crime Analytics Dashboard
-
-### 📈 Power BI Dashboards
-
-- Executive Sales Dashboard
-- Customer Segmentation Dashboard
-- Retail Performance Dashboard
-- HR Analytics Dashboard
-- Supply Chain Dashboard
-- Financial Crime Monitoring Dashboard
 
 ---
 
 ## 🌱 Currently Learning
 
+### Frontend Development
+
+- Advanced React.js
+- Next.js
+- Performance Optimization
+- Modern UI/UX Practices
+
+### Artificial Intelligence
+
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Deep Learning
+
+### Salesforce
+
+- Apex Development
+- Salesforce Administration
+- LWC Advanced Concepts
+- Salesforce Integration
+
 ### Data Analytics
 
 - Advanced SQL
-- Data Modeling
-- Data Warehousing
-- ETL Processes
-- Advanced DAX
-- Power Query
-
-### Business Intelligence
-
-- KPI Development
-- Dashboard Storytelling
-- Executive Reporting
+- Power BI & DAX
 - Microsoft Fabric
-
-### AI & Analytics
-
-- Predictive Analytics
-- Machine Learning
-- Generative AI for Analytics
-- AI-Powered Business Intelligence
+- ETL Processes
+- Data Warehousing
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Frontend Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+### Artificial Intelligence & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+### Salesforce
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce)
+![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
 
 ### Data Analytics & BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
-### Python Libraries
+### Backend & Databases
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📂 Featured Analytics Projects
+## 📂 Featured Projects
 
-### 🛍️ Fashion Trend Analysis
+### 🤖 AI Career Coach Chatbot
 
-- Best-selling brand analysis
-- Customer preference insights
-- Seasonal demand trends
-- Return rate analysis
-- Power BI Dashboard
+📌 AI-powered career assistant that helps users improve resumes, optimize LinkedIn profiles, prepare for interviews, and analyze job descriptions.
+
+**Tech Stack:** React, Flask, Python, Hugging Face API, LLaMA Models
+
+**Key Features:**
+- Resume Review
+- LinkedIn Optimization
+- Interview Preparation
+- Job Description Analysis
+- Career Guidance
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
+
+### 📝 QuickBlog Summarizer
+
+📌 AI-powered application that summarizes blog articles and web content into concise insights.
+
+**Tech Stack:** React, Flask, Python, Hugging Face Transformers
+
+**Key Features:**
+- Blog URL Extraction
+- AI Content Summarization
+- Fast Reading Experience
+- NLP-Based Insights
+
+🔗 GitHub: https://github.com/maheswari-pinneti/QuickBlog-Summarizer-POC-
+
+---
+
+### 🩺 Chest X-ray Disease Classification
+
+📌 Deep learning application for detecting multiple chest diseases from X-ray images.
+
+**Tech Stack:** Python, TensorFlow, DenseNet121, Flask, SQL
+
+**Key Features:**
+- Disease Detection
+- Medical Image Analysis
+- Grad-CAM Explainability
+- Multi-Class Classification
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
+
+### 🎭 Deep Fake Face Detection
+
+📌 AI model designed to identify manipulated facial videos and images using deep learning techniques.
+
+**Tech Stack:** Python, TensorFlow, Keras, OpenCV, LSTM
+
+**Key Features:**
+- Deep Fake Detection
+- Video Frame Analysis
+- Facial Pattern Recognition
+- Security & Verification
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
+
+### 👗 Fashion Trend Analysis Dashboard
+
+📌 Data analytics project analyzing customer preferences, seasonal demand, top-selling brands, and return behavior.
+
+**Tech Stack:** Power BI, Excel, SQL
+
+**Key Features:**
+- Best-Selling Brand Analysis
+- Seasonal Trend Analysis
+- Customer Segmentation
+- Return Rate Analytics
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
+
+### 📊 Sales Performance Dashboard
+
+📌 Interactive business intelligence dashboard for monitoring sales performance, revenue growth, profit margins, and KPIs.
+
+**Tech Stack:** Power BI, DAX, Power Query, Excel
+
+**Key Features:**
+- Revenue Analysis
+- Profitability Tracking
+- Regional Performance
+- Executive KPI Reporting
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
+
+### 🚕 NYC Taxi Trip Analytics
+
+📌 Large-scale transportation analytics project focused on trip patterns, peak demand, revenue, and customer behavior.
+
+**Tech Stack:** Python, Pandas, Power BI, SQL
+
+**Key Features:**
+- Peak Hour Analysis
+- Revenue Insights
+- Route Optimization
+- Geographic Trends
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
 
 ### 🏥 Healthcare Operations Analytics
 
-- Patient flow analysis
-- Resource utilization tracking
-- Department performance monitoring
-- Operational efficiency reporting
+📌 Data-driven healthcare analysis project focused on operational efficiency and patient flow optimization.
 
-### 🚕 NYC Taxi Trip Analysis
+**Tech Stack:** Power BI, SQL, Excel
 
-- Revenue analysis
-- Peak-hour demand patterns
-- Customer behavior analysis
-- Geographic hotspot identification
+**Key Features:**
+- Patient Flow Analysis
+- Resource Utilization
+- Department Performance
+- Operational Reporting
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
 
 ### 🏬 Retail Supply Chain Analytics
 
-- Inventory optimization
-- Demand forecasting
-- Supplier performance analysis
-- Stock movement tracking
+📌 Analytics solution designed to optimize inventory management and supply chain performance.
 
-### 🎬 Movie & Streaming Analytics
+**Tech Stack:** Power BI, SQL, Excel
 
-- User engagement analysis
-- Genre popularity insights
-- Subscription trends
-- Content performance evaluation
+**Key Features:**
+- Inventory Tracking
+- Demand Forecasting
+- Supplier Analysis
+- Supply Chain KPIs
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
 
 ### 💰 Financial Crime Analytics Dashboard
 
-- Suspicious transaction monitoring
-- AML analytics
-- Fraud trend analysis
-- Risk assessment reporting
+📌 Analytics dashboard designed to identify suspicious transactions and monitor financial crime indicators.
+
+**Tech Stack:** Power BI, SQL, Python
+
+**Key Features:**
+- AML Monitoring
+- Fraud Detection Analytics
+- Risk Scoring
+- Compliance Reporting
+
+🔗 GitHub: https://github.com/maheswari-pinneti
+
+---
+
+### 🌐 Personal Portfolio Website
+
+📌 Modern responsive portfolio showcasing projects, skills, certifications, and professional journey.
+
+**Tech Stack:** React, JavaScript, Tailwind CSS
+
+**Key Features:**
+- Responsive Design
+- Project Showcase
+- Contact Integration
+- Interactive UI
+
+🔗 GitHub: https://github.com/maheswari-pinneti/github-portfolio
+
+---
+
+### ☁️ Salesforce LWC Developer Notes
+
+📌 Structured learning repository for Salesforce Lightning Web Components and Apex development.
+
+**Tech Stack:** Salesforce, LWC, Apex
+
+**Key Features:**
+- LWC Concepts
+- Apex Fundamentals
+- Salesforce Development Notes
+- Certification Preparation
+
+🔗 GitHub: https://github.com/maheswari-pinneti/Salesforce-LWC-Developer-Notes
+
+---
 
 ---
 
@@ -171,9 +348,11 @@ To leverage analytical thinking, business intelligence tools, and data visualiza
 - ⭐ Solved 75+ Problems on LeetCode
 - 🥇 5★ Python on HackerRank
 - 🥈 6★ Problem Solving on HackerRank
-- 📊 Built End-to-End Analytics Dashboards
-- 📈 Created Interactive Power BI Reports
-- 🤖 Developed AI & Machine Learning Projects
+- 📊 Developed Power BI Dashboards
+- 🤖 Built AI & Machine Learning Projects
+- 🌐 Developed Responsive Web Applications
+- ☁️ Salesforce Development Projects
+- 📈 End-to-End Analytics Projects
 
 ---
 
@@ -203,34 +382,31 @@ To leverage analytical thinking, business intelligence tools, and data visualiza
 
 ## 📅 2026 Goals
 
-- 🚀 Complete 50+ Data Analytics Projects
-- 📊 Master Power BI & Advanced DAX
-- 🗄️ Become Advanced SQL Practitioner
-- ☁️ Learn Microsoft Fabric
-- 📈 Build Enterprise-Level Dashboards
-- 💰 Transition into FinCrime Analytics
-- 🎯 Secure a Data Analyst / BI Analyst Role
+- 🚀 Build 50+ Real-World Projects
+- 🌐 Master Frontend Development
+- 🤖 Build Production AI Applications
+- ☁️ Earn Salesforce Certifications
+- 📊 Master Power BI & Analytics
+- 📈 Learn Microsoft Fabric
+- 💰 Explore Financial Crime Analytics
+- 🎯 Secure a High-Impact Technology Role
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maheswari_Pinneti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maheswari-pinneti/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Maheswari_Pinneti-black?style=for-the-badge&logo=github)](https://github.com/maheswari-pinneti)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Maheswari_pinneti/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/pinnetimaheswari)
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=for-the-badge&logo=devdotto)](https://dev.to/maheswaripinneti)
-
-📧 **Email:** pinnetimaheswari17@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/maheswari-pinneti
+- 💻 GitHub: github.com/maheswari-pinneti
+- 🧩 LeetCode: leetcode.com/u/Maheswari_pinneti
+- 🏆 HackerRank: hackerrank.com/profile/pinnetimaheswari
+- ✍️ Dev.to: dev.to/maheswaripinneti
+- 📧 Email: pinnetimaheswari17@gmail.com
 
 ---
 
 ## 💡 Quote
 
-> "Without data, you're just another person with an opinion."
+> "Technology is most powerful when it transforms ideas into solutions and data into decisions."
 
-### 📊 Transforming Data into Decisions | Insights into Impact | Analytics into Growth
+### 🚀 Frontend Development | AI & ML | Salesforce | Power BI | Data Analytics
+```
