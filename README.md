@@ -1,27 +1,24 @@
-<a id="top"></a>
-<p align="center"><img src="./assets/banner.svg" alt="Maheswari Pinneti - Frontend Developer @ Stackly" width="100%" /></p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=820&height=50&lines=React.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+Web+Applications;Responsive+UI+%7C+Dashboards+%7C+Reusable+Components;Exploring+Frontend%2C+AI%2FML+%26+Developer+Tools" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:10B981&height=220&section=header&text=Maheswari%20Pinneti&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%40%20Stackly&descSize=20&descAlignY=58&animation=fadeIn" alt="Maheswari Pinneti – Frontend Developer" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+Web+Applications;Responsive+UI+%7C+Dashboards+%7C+Reusable+Components;Exploring+Frontend%2C+AI%2FML+%26+Developer+Tools" alt="Typing animation" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-maheswari-pinneti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari-pinneti)
-[![Organization](https://img.shields.io/badge/Org-Mahi%20Developer%20Universe-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahi-developer-universe)
+[![GitHub](https://img.shields.io/badge/GitHub-maheswari--pinneti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari-pinneti)
+[![Organization](https://img.shields.io/badge/Organization-Mahi%20Developer%20Universe-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahi-developer-universe)
 [![Repositories](https://img.shields.io/badge/Repositories-Browse%20All-2563EB?style=for-the-badge&logo=git&logoColor=white)](https://github.com/maheswari-pinneti?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=maheswari-pinneti&label=Profile%20Views&color=10b981&style=for-the-badge)
 
 <br/>
 
-[**About**](#about) &nbsp;•&nbsp; [**Tech Stack**](#stack) &nbsp;•&nbsp; [**Projects**](#projects) &nbsp;•&nbsp; [**Organization**](#org) &nbsp;•&nbsp; [**Repositories**](#repos) &nbsp;•&nbsp; [**Stats**](#stats) &nbsp;•&nbsp; [**Achievements**](#achievements) &nbsp;•&nbsp; [**Connect**](#connect)
+[**About**](#-about-me) &nbsp;•&nbsp; [**Tech Stack**](#-tech-stack) &nbsp;•&nbsp; [**Featured Projects**](#-featured-projects) &nbsp;•&nbsp; [**Organization**](#-github-organization) &nbsp;•&nbsp; [**All Repositories**](#-all-repositories) &nbsp;•&nbsp; [**Achievements**](#-achievements--certifications) &nbsp;•&nbsp; [**Connect**](#-lets-connect)
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+---
 
-<a id="about"></a>
-<p align="center"><img src="./assets/headers/about.svg" alt="about" width="100%" /></p>
+## 👩‍💻 About Me
 
 I'm a **Frontend Developer at Stackly** who enjoys building responsive web interfaces, reusable UI components, and API-driven applications. I also maintain projects and learning resources across developer tools, coding practice, AI/ML, dashboards, and Salesforce.
 
@@ -54,103 +51,55 @@ Frontend Architecture · Next.js · Testing · AI/ML Concepts
 </tr>
 </table>
 
-<div align="center">
+---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-
-</div>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
-
-<a id="stack"></a>
-<p align="center"><img src="./assets/headers/stack.svg" alt="stack" width="100%" /></p>
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material%20UI" />
-
-**State, Data & Routing**
-
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux%20Toolkit" />
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React%20Query" />
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React%20Router" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts" />
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind" alt="Frontend technologies" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS%20Code" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,git,github,vscode,vite,postman,figma,npm&theme=dark&perline=14" alt="Skill icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,figma,npm" alt="Development tools" />
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+| Category | Technologies |
+|---|---|
+| **Languages** | [TypeScript](https://www.typescriptlang.org) · [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| **Framework & Libraries** | [React.js](https://react.dev) · [React Router DOM](https://reactrouter.com) · [Axios](https://axios-http.com) |
+| **State & Data Fetching** | [Redux Toolkit](https://redux-toolkit.js.org) · [TanStack React Query](https://tanstack.com/query) · REST APIs |
+| **UI & Visualization** | [Material UI](https://mui.com) · [Bootstrap](https://getbootstrap.com) · [Recharts](https://recharts.org) · Responsive Design |
+| **Tooling** | [Git](https://git-scm.com) · [GitHub](https://github.com/maheswari-pinneti) · [VS Code](https://code.visualstudio.com) · [Vite](https://vitejs.dev) · [npm](https://www.npmjs.com) · [Postman](https://www.postman.com) · [Figma](https://www.figma.com) |
+| **Additional Interests** | Data Structures & Algorithms · AI/ML & Computer Vision · Developer Productivity · Salesforce Development |
 
-<a id="projects"></a>
-<p align="center"><img src="./assets/headers/projects.svg" alt="projects" width="100%" /></p>
+---
 
-<p align="center"><sub>Click any card to open the repository.</sub></p>
+## ⭐ Featured Projects
 
-<p align="center">
-<a href="https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture"><img width="48%" alt="WFA-Rolebased-Architecture" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=WFA-Rolebased-Architecture&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project"><img width="48%" alt="WFA-SQLITE-Frontend-project" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=WFA-SQLITE-Frontend-project&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell"><img width="48%" alt="Workforce-Analytics-Dashboard-Shell" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=Workforce-Analytics-Dashboard-Shell&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/mahi-developer-universe/mahi-ui-verse"><img width="48%" alt="mahi-ui-verse" src="https://github-readme-stats.vercel.app/api/pin/?username=mahi-developer-universe&repo=mahi-ui-verse&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/mahi-developer-universe/mahi-ui-component-playground"><img width="48%" alt="mahi-ui-component-playground" src="https://github-readme-stats.vercel.app/api/pin/?username=mahi-developer-universe&repo=mahi-ui-component-playground&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/mahi-developer-universe/mahi-api-verse"><img width="48%" alt="mahi-api-verse" src="https://github-readme-stats.vercel.app/api/pin/?username=mahi-developer-universe&repo=mahi-api-verse&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION"><img width="48%" alt="CRM-WEB-APPLICATION" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=CRM-WEB-APPLICATION&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/Doctor-Appointment-System"><img width="48%" alt="Doctor-Appointment-System" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=Doctor-Appointment-System&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/Chest-X-ray-Classifier"><img width="48%" alt="Chest-X-ray-Classifier" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=Chest-X-ray-Classifier&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM"><img width="48%" alt="DeepFake-Face-Detection-using-LSTM" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=DeepFake-Face-Detection-using-LSTM&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard"><img width="48%" alt="Myntra-Sales-Analysis-Dashboard" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=Myntra-Sales-Analysis-Dashboard&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/maheswari-pinneti/Byte-Byte-Go"><img width="48%" alt="Byte-Byte-Go" src="https://github-readme-stats.vercel.app/api/pin/?username=maheswari-pinneti&repo=Byte-Byte-Go&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-</p>
-
-<details>
-<summary><b>📋 All featured projects with Git clone URLs</b></summary>
-
-<br/>
+A curated starting point for exploring my work. Each repository includes its source code, README, and setup instructions.
 
 | Project | Focus | Links |
 |---|---|---|
-| **Workforce Analytics - Role-Based Architecture** | Dashboards, role-based access, authentication, employee and attendance workflows | [Repo](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture) · [Clone](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture.git) |
-| **WFA SQLite Frontend Project** | SQLite-focused workforce application | [Repo](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project) · [Clone](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project.git) |
-| **Workforce Analytics Dashboard Shell** | Dashboard interface for workforce analytics | [Repo](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell) · [Clone](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell.git) |
-| **Mahi UI Verse** | UI/UX, frontend resources, design inspiration, learning materials | [Repo](https://github.com/mahi-developer-universe/mahi-ui-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-verse.git) |
-| **Mahi UI Component Playground** | UI components and frontend experimentation | [Repo](https://github.com/mahi-developer-universe/mahi-ui-component-playground) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-component-playground.git) |
-| **Mahi API Verse** | API-related development and exploration | [Repo](https://github.com/mahi-developer-universe/mahi-api-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-api-verse.git) |
-| **CRM Web Application** | CRM application development | [Repo](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION) · [Clone](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION.git) |
-| **Doctor Appointment System** | Appointment-system application | [Repo](https://github.com/maheswari-pinneti/Doctor-Appointment-System) · [Clone](https://github.com/maheswari-pinneti/Doctor-Appointment-System.git) |
-| **Chest X-ray Classifier** | Computer vision and image classification | [Repo](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier) · [Clone](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier.git) |
-| **DeepFake Face Detection using LSTM** | AI/ML and deep-learning exploration | [Repo](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM) · [Clone](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM.git) |
-| **Myntra Sales Analysis Dashboard** | Sales data analysis and dashboards | [Repo](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard) · [Clone](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard.git) |
-| **Byte-Byte-Go** | Coding interview patterns and problem solving | [Repo](https://github.com/maheswari-pinneti/Byte-Byte-Go) · [Clone](https://github.com/maheswari-pinneti/Byte-Byte-Go.git) |
+| **Workforce Analytics — Role-Based Architecture** | Dashboards, role-based access, authentication, employee & attendance workflows | [Repository](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture) · [Clone](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture.git) |
+| **WFA SQLite Frontend Project** | SQLite-focused workforce application | [Repository](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project) · [Clone](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project.git) |
+| **Workforce Analytics Dashboard Shell** | Dashboard interface for workforce analytics | [Repository](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell) · [Clone](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell.git) |
+| **Mahi UI Verse** | UI/UX, frontend resources, design inspiration, learning materials | [Repository](https://github.com/mahi-developer-universe/mahi-ui-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-verse.git) |
+| **Mahi UI Component Playground** | UI components and frontend experimentation | [Repository](https://github.com/mahi-developer-universe/mahi-ui-component-playground) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-component-playground.git) |
+| **Mahi API Verse** | API-related development and exploration | [Repository](https://github.com/mahi-developer-universe/mahi-api-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-api-verse.git) |
+| **CRM Web Application** | CRM application development | [Repository](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION) · [Clone](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION.git) |
+| **Doctor Appointment System** | Appointment-system application | [Repository](https://github.com/maheswari-pinneti/Doctor-Appointment-System) · [Clone](https://github.com/maheswari-pinneti/Doctor-Appointment-System.git) |
+| **Chest X-ray Classifier** | Computer vision & image classification | [Repository](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier) · [Clone](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier.git) |
+| **DeepFake Face Detection using LSTM** | AI/ML & deep-learning exploration | [Repository](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM) · [Clone](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM.git) |
+| **Myntra Sales Analysis Dashboard** | Sales data analysis & dashboards | [Repository](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard) · [Clone](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard.git) |
+| **Byte-Byte-Go** | Coding interview patterns & problem solving | [Repository](https://github.com/maheswari-pinneti/Byte-Byte-Go) · [Clone](https://github.com/maheswari-pinneti/Byte-Byte-Go.git) |
 
-</details>
+---
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
-
-<a id="org"></a>
-<p align="center"><img src="./assets/headers/org.svg" alt="org" width="100%" /></p>
+## 🏢 GitHub Organization
 
 <div align="center">
 
@@ -160,29 +109,22 @@ Frontend Architecture · Next.js · Testing · AI/ML Concepts
 
 </div>
 
-<p align="center">
-<a href="https://github.com/mahi-developer-universe/mahi-ui-verse"><img width="48%" alt="mahi-ui-verse" src="https://github-readme-stats.vercel.app/api/pin/?username=mahi-developer-universe&repo=mahi-ui-verse&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/mahi-developer-universe/mahi-ui-component-playground"><img width="48%" alt="mahi-ui-component-playground" src="https://github-readme-stats.vercel.app/api/pin/?username=mahi-developer-universe&repo=mahi-ui-component-playground&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/mahi-developer-universe/mahi-api-verse"><img width="48%" alt="mahi-api-verse" src="https://github-readme-stats.vercel.app/api/pin/?username=mahi-developer-universe&repo=mahi-api-verse&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-</p>
-
 | Repository | Description | Links |
 |---|---|---|
-| **Mahi UI Verse** | Frontend and UI/UX resource hub | [Repo](https://github.com/mahi-developer-universe/mahi-ui-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-verse.git) |
-| **Mahi UI Component Playground** | UI component playground and frontend experiments | [Repo](https://github.com/mahi-developer-universe/mahi-ui-component-playground) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-component-playground.git) |
-| **Mahi API Verse** | API-related project under the organization | [Repo](https://github.com/mahi-developer-universe/mahi-api-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-api-verse.git) |
+| **Mahi UI Verse** | Frontend and UI/UX resource hub | [Repository](https://github.com/mahi-developer-universe/mahi-ui-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-verse.git) |
+| **Mahi UI Component Playground** | UI component playground and frontend experiments | [Repository](https://github.com/mahi-developer-universe/mahi-ui-component-playground) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-component-playground.git) |
+| **Mahi API Verse** | API-related project under the organization | [Repository](https://github.com/mahi-developer-universe/mahi-api-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-api-verse.git) |
 
 ➡️ Browse all organization repositories: [github.com/mahi-developer-universe](https://github.com/mahi-developer-universe)
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+---
 
-<a id="repos"></a>
-<p align="center"><img src="./assets/headers/repos.svg" alt="repos" width="100%" /></p>
+## 🗂️ All Repositories
 
-Expand a category to see its projects. Repository visibility and availability may vary.
+A full directory of repositories on my personal account. Expand a category to see its projects. Visibility and availability may vary.
 
 <details>
-<summary><b>Frontend, Web Applications &amp; Dashboards</b> &nbsp;(14)</summary>
+<summary><b>💻 Frontend, Web Applications &amp; Dashboards</b> &nbsp;(14)</summary>
 
 <br/>
 
@@ -206,7 +148,7 @@ Expand a category to see its projects. Repository visibility and availability ma
 </details>
 
 <details>
-<summary><b>UI, APIs &amp; Developer Resources</b> &nbsp;(16)</summary>
+<summary><b>🎨 UI, APIs &amp; Developer Resources</b> &nbsp;(16)</summary>
 
 <br/>
 
@@ -232,7 +174,7 @@ Expand a category to see its projects. Repository visibility and availability ma
 </details>
 
 <details>
-<summary><b>AI, Machine Learning &amp; Data</b> &nbsp;(6)</summary>
+<summary><b>🧠 AI, Machine Learning &amp; Data</b> &nbsp;(6)</summary>
 
 <br/>
 
@@ -248,7 +190,7 @@ Expand a category to see its projects. Repository visibility and availability ma
 </details>
 
 <details>
-<summary><b>Coding Practice &amp; Interview Preparation</b> &nbsp;(8)</summary>
+<summary><b>🧩 Coding Practice &amp; Interview Preparation</b> &nbsp;(8)</summary>
 
 <br/>
 
@@ -265,43 +207,9 @@ Expand a category to see its projects. Repository visibility and availability ma
 
 </details>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+---
 
-<a id="stats"></a>
-<p align="center"><img src="./assets/headers/stats.svg" alt="stats" width="100%" /></p>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=maheswari-pinneti&theme=tokyonight&hide_border=true&border_radius=12" alt="Contribution streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=maheswari-pinneti&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswari-pinneti&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=34d399&line=10b981&point=ffffff" alt="Contribution graph" width="100%" />
-
-</div>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
-
-<a id="snake"></a>
-<p align="center"><img src="./assets/headers/snake.svg" alt="snake" width="100%" /></p>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheswari-pinneti/maheswari-pinneti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheswari-pinneti/maheswari-pinneti/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/maheswari-pinneti/maheswari-pinneti/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
-
-<a id="achievements"></a>
-<p align="center"><img src="./assets/headers/achievements.svg" alt="achievements" width="100%" /></p>
+## 🏆 Achievements & Certifications
 
 <table>
 <tr>
@@ -320,7 +228,7 @@ Expand a category to see its projects. Repository visibility and availability ma
 ### 📜 Certifications
 
 - Databricks Generative AI Fundamentals
-- Applied AI Lab - WorldQuant University
+- Applied AI Lab — WorldQuant University
 - Google Cloud Generative AI
 - Deep Learning Specialization
 - Frontend Web Development
@@ -330,10 +238,26 @@ Expand a category to see its projects. Repository visibility and availability ma
 </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+---
 
-<a id="clone"></a>
-<p align="center"><img src="./assets/headers/clone.svg" alt="clone" width="100%" /></p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=maheswari-pinneti&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🔀 Clone a Project
+
+Use a repository's `.git` URL to clone it locally.
 
 ```bash
 # Personal repository
@@ -345,10 +269,9 @@ git clone https://github.com/mahi-developer-universe/mahi-ui-verse.git
 
 > 💡 For any repository, open its page and select **Code → HTTPS** to copy the current clone URL.
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+---
 
-<a id="connect"></a>
-<p align="center"><img src="./assets/headers/connect.svg" alt="connect" width="100%" /></p>
+## 🤝 Let's Connect
 
 I'm happy to connect with developers, recruiters, and technology enthusiasts to exchange ideas, discuss projects, and explore collaboration opportunities.
 
@@ -357,10 +280,16 @@ I'm happy to connect with developers, recruiters, and technology enthusiasts to 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari-pinneti)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahi-developer-universe)
 
-<a href="#top"><sub>⬆ back to top</sub></a>
+<br/>
+
+### ✨ Building Today. Improving Every Day.
+
+*"Turning ideas into intuitive digital experiences through clean code, thoughtful design, and continuous learning."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:0F766E,100:0F172A&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
-
-<p align="center"><img src="./assets/footer.svg" alt="Building Today. Improving Every Day." width="100%" /></p>
 
 <sub>**Note:** This README is a directory of projects discovered for the account and organization. Some repositories may be experiments, learning resources, forks, renamed projects, or works in progress. Please check each repository for its current status, implementation, and license before using or contributing.</sub>
