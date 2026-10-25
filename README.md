@@ -2,89 +2,107 @@
 
 <div align="center">
 
-# 🚀 Frontend Developer @ Stackly | Ex-Frontend Developer @ Exner Technologies
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=850&lines=Frontend+Developer+%40+Stackly;React.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+Web+Applications;Crafting+Exceptional+User+Experiences" alt="Frontend Developer introduction" />
 
-### React.js • TypeScript • JavaScript • Redux Toolkit • React Query • HTML5 • CSS3
+### 🚀 Frontend Developer at Stackly
 
-### Building Scalable Web Applications • Crafting Responsive User Interfaces • Delivering Exceptional User Experiences
+**React.js · TypeScript · JavaScript · Redux Toolkit · React Query**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%40+Stackly;Ex-Frontend+Developer+%40+Exner+Technologies;React.js+Developer;TypeScript+Developer;Redux+Toolkit;React+Query;Building+Scalable+Web+Applications;Creating+Responsive+User+Interfaces;Continuous+Learner" />
+*Building responsive interfaces, scalable applications, and meaningful digital experiences.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheswari-pinneti/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari-pinneti)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinnetimaheswari17@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=maheswari-pinneti&style=flat-square&color=10b981&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a Frontend Developer with **1.4+ years of professional experience** in designing, developing, and maintaining responsive, scalable, and user-centric web applications.
+Hello! I'm **Maheswari Pinneti**, a Frontend Developer at **Stackly**, passionate about building modern, responsive, and user-friendly web applications.
 
-Currently, I'm working at **Stackly** as a **Frontend Developer**, contributing to enterprise-grade applications using **React.js, TypeScript, Redux Toolkit, React Query, JavaScript, HTML5, CSS3, and REST APIs**.
+I enjoy transforming requirements and ideas into intuitive digital experiences using React.js, TypeScript, JavaScript, and modern frontend technologies.
 
-Previously, I worked at **Exner Technologies**, where I gained hands-on experience in building reusable UI components, integrating backend APIs, implementing state management, optimizing application performance, and collaborating with cross-functional Agile teams.
+My focus is on writing clean, maintainable code, building reusable components, integrating APIs, managing application state, and delivering consistent user experiences across devices.
 
-I enjoy writing clean, maintainable code and continuously learning modern frontend technologies to build intuitive and high-quality web applications.
-
----
-
-# 💼 Professional Experience
-
-## 🚀 Frontend Developer
-### Stackly
-**Duration:** Present
-
-### Responsibilities
-
-- Developing enterprise web applications using React.js and TypeScript.
-- Building reusable and responsive UI components.
-- Integrating REST APIs using React Query and Axios.
-- Managing global application state with Redux Toolkit.
-- Collaborating with UI/UX designers and backend developers.
-- Implementing responsive layouts across desktop, tablet, and mobile devices.
-- Optimizing application performance and improving user experience.
-- Participating in Agile development, sprint planning, code reviews, and daily stand-up meetings.
-- Maintaining code quality using Git and GitHub.
+- 💼 **Current Role:** Frontend Developer at Stackly
+- ⚛️ **Primary Technologies:** React.js, TypeScript, JavaScript
+- 🧩 **Frontend Architecture:** Reusable components and modular application design
+- 🔄 **State Management:** Redux Toolkit and React Query
+- 🔌 **API Integration:** REST APIs and Axios
+- 📊 **Interests:** Interactive dashboards and data visualization
+- 🌱 **Currently Learning:** Next.js, frontend architecture, and automated testing
+- 🎯 **Career Goal:** Build reliable, scalable applications and continue growing as a software developer
 
 ---
 
-## 🚀 Frontend Developer
-### Exner Technologies
-**Duration:** Previous Experience
+## 💼 Professional Experience
 
-### Responsibilities
+### 🚀 Frontend Developer — Stackly
 
-- Developed responsive web applications using React.js, TypeScript, JavaScript, HTML5, and CSS3.
-- Built reusable and modular UI components.
-- Integrated RESTful APIs and handled asynchronous data fetching.
-- Managed application state using Redux Toolkit.
-- Implemented authentication and role-based authorization.
-- Fixed production bugs and improved application performance.
-- Collaborated with QA engineers and backend developers.
-- Followed Agile methodologies and Git-based workflows.
+**Focus:** Frontend Application Development
+
+- Develop and maintain web application interfaces using React.js, TypeScript, and JavaScript.
+- Build reusable, modular, and responsive UI components.
+- Integrate REST APIs and manage server-state workflows using React Query.
+- Manage shared application state using Redux Toolkit.
+- Create interactive dashboards, data-driven interfaces, and visualizations.
+- Implement responsive layouts for desktop, tablet, and mobile devices.
+- Handle loading states, API errors, and dynamic application data.
+- Debug frontend issues and improve code quality and maintainability.
+- Collaborate with team members on feature development and application improvements.
+- Use Git and GitHub for source control and collaborative workflows.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="React, TypeScript, JavaScript, HTML and CSS" />
+</p>
 
 - React.js
 - TypeScript
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- Redux Toolkit
-- React Query
+- Responsive Web Design
 - React Router DOM
+- Component-Based Architecture
+
+### State Management and Data Fetching
+
+- Redux Toolkit
+- TanStack React Query
 - Axios
-- Recharts
+- REST API Integration
+- Asynchronous Data Handling
+
+### UI and Data Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+</p>
+
+- Material UI (MUI)
 - Bootstrap
-- Tailwind CSS
+- Recharts
+- Responsive Layouts
+- Accessible and Consistent UI Design
 
-### Tools
+### Developer Tools
 
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,figma,npm" alt="Git, GitHub, VS Code, Vite, Postman, Figma and npm" />
+</p>
+
+- Git and GitHub
+- Visual Studio Code
 - Vite
 - Postman
 - Figma
@@ -92,48 +110,71 @@ I enjoy writing clean, maintainable code and continuously learning modern fronte
 
 ---
 
-# 🚀 Core Skills
+## 💡 Core Competencies
 
 - Frontend Development
+- Single-Page Applications (SPAs)
 - Responsive Web Design
-- Single Page Applications (SPA)
+- Reusable UI Components
 - REST API Integration
 - State Management
-- Component-Based Architecture
+- Interactive Dashboards
+- Data Visualization
 - Performance Optimization
+- Debugging and Troubleshooting
 - Cross-Browser Compatibility
-- Agile Development
-- Git & GitHub
+- Version Control and Team Collaboration
 
 ---
 
-# 🌱 Currently Learning
+## 🚀 Projects and Development Work
 
-- Advanced React Patterns
-- Next.js
-- Frontend Architecture
-- Performance Optimization
-- Unit Testing
-- Microsoft Fabric
+I enjoy building practical applications that combine clean architecture, intuitive interfaces, and reliable functionality.
+
+### 📊 Enterprise Dashboard Applications
+
+**Technologies:** React.js, TypeScript, Redux Toolkit, React Query, Recharts
+
+- Develop dashboard interfaces with reusable UI components.
+- Organize application state and API-driven data.
+- Present data through interactive charts and KPI cards.
+- Build responsive layouts and consistent navigation experiences.
+
+### 🧩 UI Component Playground
+
+**Focus:** Reusable frontend components and interactive UI experiences
+
+- Explore component-based development and reusable interface patterns.
+- Build and refine responsive UI elements.
+- Practice maintainable styling and frontend architecture.
+
+### 🌐 Personal Developer Portfolio
+
+**Focus:** Showcasing development projects, skills, and technical learning
+
+- Present selected projects and technical capabilities.
+- Organize project information for easy navigation.
+- Continuously improve the portfolio and user experience.
+
+**Explore my repositories and projects:**
+
+[![Explore Repositories](https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/maheswari-pinneti?tab=repositories)
 
 ---
 
-# 🏆 Achievements
+## 📈 Coding Achievements
 
-- 💼 1.4+ Years of Frontend Development Experience
-- 🌐 Developed Enterprise Web Applications
-- 📊 Built Interactive Dashboard Applications
-- ⚡ Integrated REST APIs
-- ⭐ Solved 75+ Problems on LeetCode
-- 🥇 5★ Python on HackerRank
-- 🥈 6★ Problem Solving on HackerRank
+- ⭐ Solved 75+ problems on LeetCode.
+- 🐍 Achieved a 5-star Python rating on HackerRank.
+- 🧠 Achieved a 6-star Problem Solving rating on HackerRank.
+- 💻 Continuously practice programming, problem-solving, and application development.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - Databricks Generative AI Fundamentals
-- Applied AI Lab – WorldQuant University
+- Applied AI Lab — WorldQuant University
 - Google Cloud Generative AI
 - Deep Learning Specialization
 - Frontend Web Development
@@ -141,14 +182,51 @@ I enjoy writing clean, maintainable code and continuously learning modern fronte
 
 ---
 
-# 📫 Connect With Me
+## 🌱 Currently Learning
 
-💼 **LinkedIn:** www.linkedin.com/in/maheswari-pinneti
-
-💻 **GitHub:** github.com/maheswari-pinneti
-
-📧 **Email:** pinnetimaheswari17@gmail.com
+- Advanced React Patterns
+- Next.js and modern React application development
+- Scalable Frontend Architecture
+- Web Performance Optimization
+- Unit Testing and Component Testing
+- Microsoft Fabric
 
 ---
 
-> **"Building modern, scalable, and user-friendly web applications through clean code, continuous learning, and innovative solutions."**
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=maheswari-pinneti&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm happy to connect with developers, recruiters, and technology enthusiasts to exchange ideas, discuss projects, and explore opportunities.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maheswari_Pinneti-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maheswari-pinneti/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-maheswari--pinneti-181717?style=for-the-badge&logo=github)](https://github.com/maheswari-pinneti)
+
+[![Email](https://img.shields.io/badge/Email-pinnetimaheswari17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinnetimaheswari17@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building Today. Improving Every Day.
+
+*"Turning ideas into intuitive digital experiences through clean code, thoughtful design, and continuous learning."*
+
+</div>
