@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:10B981&height=220&section=header&text=Maheswari%20Pinneti&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%40%20Stackly&descSize=20&descAlignY=58&animation=fadeIn" alt="Maheswari Pinneti – Frontend Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:10B981&height=220&section=header&text=Maheswari%20Pinneti&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%7C%20Python%20%7C%20Salesforce%20%7C%20Cybersecurity&descSize=18&descAlignY=58&animation=fadeIn" alt="Maheswari Pinneti" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=800&lines=React.js+%7C+TypeScript+%7C+JavaScript;Building+Scalable+Web+Applications;Responsive+UI+%7C+Dashboards+%7C+Reusable+Components;Exploring+Frontend%2C+AI%2FML+%26+Developer+Tools" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=900&lines=Frontend+Development+%7C+React.js+%7C+TypeScript;Python+Programming+%7C+Automation+%7C+Problem+Solving;Salesforce+%7C+LWC+%7C+CRM+Development;Cybersecurity+%7C+Web+Security+%7C+API+Security;Data+Analytics+%7C+Cloud+%7C+Continuous+Learning" alt="Skills typing animation" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-[**About**](#-about-me) &nbsp;•&nbsp; [**Tech Stack**](#-tech-stack) &nbsp;•&nbsp; [**Featured Projects**](#-featured-projects) &nbsp;•&nbsp; [**Organization**](#-github-organization) &nbsp;•&nbsp; [**All Repositories**](#-all-repositories) &nbsp;•&nbsp; [**Achievements**](#-achievements--certifications) &nbsp;•&nbsp; [**Connect**](#-lets-connect)
+[**About**](#-about-me) • [**Comb-Shaped Skills**](#-comb-shaped-skills) • [**Tech Stack**](#-tech-stack) • [**Featured Projects**](#-featured-projects) • [**Organization**](#-github-organization) • [**Repositories**](#-all-repositories) • [**Achievements**](#-achievements--certifications) • [**Connect**](#-lets-connect)
 
 </div>
 
@@ -20,36 +20,96 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Frontend Developer at Stackly** who enjoys building responsive web interfaces, reusable UI components, and API-driven applications. I also maintain projects and learning resources across developer tools, coding practice, AI/ML, dashboards, and Salesforce.
+I'm a developer passionate about building applications, understanding how software systems work, and continuously expanding my technical knowledge.
+
+My primary focus is **Frontend Development**, with a growing foundation across Python, Salesforce, SQL, Data Analytics, Cloud technologies, and Cybersecurity.
+
+I follow a **Comb-Shaped Skills Learning Approach** — building a strong foundation in software development and gradually developing interconnected skills across multiple technology domains.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**💼 Current Role**
-Frontend Developer at Stackly
+### 💻 Frontend Development
 
-**⚛️ Core Focus**
-React.js · TypeScript · JavaScript · Responsive UI
+React.js · TypeScript · JavaScript · Responsive UI · Reusable Components · API Integration
 
-**🔄 State & Data**
-Redux Toolkit · React Query · REST APIs
+### 🐍 Python Programming
+
+Programming Fundamentals · Problem Solving · Automation · Scripting · Data Processing
+
+### 📊 Data Analytics
+
+SQL · Data Analysis · Data Visualization · Analytical Thinking
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Interests**
-Dashboards · Data Visualization · Reusable UI Components
+### ☁️ Salesforce Development
 
-**🧪 Practices**
-Git · Debugging · Testing · Maintainable Code
+Salesforce CRM · Administration Fundamentals · Lightning Web Components · Apex
 
-**🌱 Currently Learning**
-Frontend Architecture · Next.js · Testing · AI/ML Concepts
+### 🔐 Cybersecurity
+
+Web Security · API Security · Secure Coding · Ethical Security Testing
+
+### ☁️ Cloud Computing
+
+Cloud Fundamentals · Cloud Services · Deployment Concepts
 
 </td>
 </tr>
 </table>
+
+### 🧩 Why I'm Building These Skills
+
+- **Frontend Development:** To create intuitive, responsive and maintainable user interfaces.
+- **Python:** To strengthen programming fundamentals, automate tasks, process data and explore backend development and AI/ML.
+- **Salesforce:** To understand CRM systems, business workflows and enterprise application development.
+- **SQL & Data Analytics:** To understand data, derive insights and build useful analytical solutions.
+- **Cloud:** To understand how applications are deployed, managed and scaled.
+- **Cybersecurity:** To understand how applications and APIs can be tested, vulnerabilities can be identified responsibly, and software can be developed more securely.
+
+### 🎯 My Learning Approach
+
+**Build a foundation → Develop core skills → Connect technologies → Build projects → Practice continuously**
+
+I believe these technologies complement one another and help me understand the complete software development lifecycle — from building user interfaces and working with data to integrating systems and learning how to protect them.
+
+---
+
+## 🎯 Comb-Shaped Skills
+
+<div align="center">
+
+<img src="./assets/comb-shaped-skills.png" alt="Comb-Shaped Skills - Frontend Development, Python, SQL, Salesforce, Data Analytics, Cloud and Cybersecurity" width="100%" />
+
+</div>
+
+### 🧠 The Foundation
+
+Programming · APIs · Databases · Cloud · Security · Problem Solving
+
+### 🪮 My Skill Structure
+
+| Skill Area | Focus | Why I'm Learning |
+|---|---|---|
+| 💻 **Frontend Development** | React.js, TypeScript, JavaScript, UI, APIs | Building responsive and maintainable applications |
+| 🐍 **Python** | Fundamentals, functions, OOP, automation, scripting | Strengthening programming and exploring automation, backend and AI/ML |
+| 🗄️ **SQL** | PostgreSQL, MySQL, queries, database fundamentals | Working with databases and understanding data |
+| ☁️ **Salesforce** | CRM, LWC, Apex, Admin fundamentals | Building business applications and understanding CRM platforms |
+| 📊 **Data Analytics** | Pandas, NumPy, dashboards, visualization | Exploring data and transforming it into insights |
+| ☁️ **Cloud** | Cloud services, infrastructure, deployment | Understanding modern application infrastructure |
+| 🔐 **Cybersecurity** | Web security, API security, secure coding, testing | Understanding vulnerabilities and secure software development |
+
+### 🔗 How These Skills Connect
+
+- **Frontend + Python:** Application development, API integration and full-stack exploration.
+- **Frontend + Cybersecurity:** Understanding browser behavior, client-side security and web application vulnerabilities.
+- **Python + Cybersecurity:** Scripting, automation, security analysis and learning security tools.
+- **Salesforce + Cybersecurity:** Understanding permissions, access controls and enterprise application security.
+- **SQL + Cybersecurity:** Learning database security and understanding SQL injection prevention.
+- **Cloud + Cybersecurity:** Exploring cloud security, infrastructure and secure deployments.
 
 ---
 
@@ -57,45 +117,55 @@ Frontend Architecture · Next.js · Testing · AI/ML Concepts
 
 <div align="center">
 
-**Frontend**
+### 💻 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind" alt="Frontend technologies" />
 
-**Tools**
+### 🐍 Python & Programming
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,figma,npm" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database technologies" />
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,figma,npm" alt="Developer tools" />
 
 </div>
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [TypeScript](https://www.typescriptlang.org) · [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-| **Framework & Libraries** | [React.js](https://react.dev) · [React Router DOM](https://reactrouter.com) · [Axios](https://axios-http.com) |
-| **State & Data Fetching** | [Redux Toolkit](https://redux-toolkit.js.org) · [TanStack React Query](https://tanstack.com/query) · REST APIs |
-| **UI & Visualization** | [Material UI](https://mui.com) · [Bootstrap](https://getbootstrap.com) · [Recharts](https://recharts.org) · Responsive Design |
-| **Tooling** | [Git](https://git-scm.com) · [GitHub](https://github.com/maheswari-pinneti) · [VS Code](https://code.visualstudio.com) · [Vite](https://vitejs.dev) · [npm](https://www.npmjs.com) · [Postman](https://www.postman.com) · [Figma](https://www.figma.com) |
-| **Additional Interests** | Data Structures & Algorithms · AI/ML & Computer Vision · Developer Productivity · Salesforce Development |
+| **Languages** | TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3 |
+| **Frontend** | React.js, React Router, Material UI, Bootstrap, Responsive Design |
+| **State Management** | Redux Toolkit, React Query |
+| **API Development & Integration** | REST APIs, Axios, Postman |
+| **Python Learning** | Python Fundamentals, Functions, Loops, Collections, OOP, Automation |
+| **Salesforce** | Salesforce CRM, Administration Fundamentals, LWC, Apex, SOQL, Flows |
+| **Database** | MySQL, PostgreSQL, SQL Fundamentals |
+| **Data Analytics** | Pandas, NumPy, Data Visualization, Dashboards |
+| **Cybersecurity Learning** | OWASP Concepts, Web Security, API Security, Secure Coding, Authentication, Authorization |
+| **Cloud Learning** | Cloud Fundamentals, Deployment, Cloud Services |
+| **Tools** | Git, GitHub, VS Code, Vite, npm, Postman, Figma |
 
 ---
 
 ## ⭐ Featured Projects
 
-A curated starting point for exploring my work. Each repository includes its source code, README, and setup instructions.
+A curated starting point for exploring my work, learning resources and development projects.
 
 | Project | Focus | Links |
 |---|---|---|
-| **Workforce Analytics — Role-Based Architecture** | Dashboards, role-based access, authentication, employee & attendance workflows | [Repository](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture) · [Clone](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture.git) |
-| **WFA SQLite Frontend Project** | SQLite-focused workforce application | [Repository](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project) · [Clone](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project.git) |
-| **Workforce Analytics Dashboard Shell** | Dashboard interface for workforce analytics | [Repository](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell) · [Clone](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell.git) |
-| **Mahi UI Verse** | UI/UX, frontend resources, design inspiration, learning materials | [Repository](https://github.com/mahi-developer-universe/mahi-ui-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-verse.git) |
+| **Mahi UI Verse** | UI/UX, frontend resources, design inspiration and learning materials | [Repository](https://github.com/mahi-developer-universe/mahi-ui-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-verse.git) |
 | **Mahi UI Component Playground** | UI components and frontend experimentation | [Repository](https://github.com/mahi-developer-universe/mahi-ui-component-playground) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-component-playground.git) |
 | **Mahi API Verse** | API-related development and exploration | [Repository](https://github.com/mahi-developer-universe/mahi-api-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-api-verse.git) |
 | **CRM Web Application** | CRM application development | [Repository](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION) · [Clone](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION.git) |
 | **Doctor Appointment System** | Appointment-system application | [Repository](https://github.com/maheswari-pinneti/Doctor-Appointment-System) · [Clone](https://github.com/maheswari-pinneti/Doctor-Appointment-System.git) |
-| **Chest X-ray Classifier** | Computer vision & image classification | [Repository](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier) · [Clone](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier.git) |
-| **DeepFake Face Detection using LSTM** | AI/ML & deep-learning exploration | [Repository](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM) · [Clone](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM.git) |
-| **Myntra Sales Analysis Dashboard** | Sales data analysis & dashboards | [Repository](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard) · [Clone](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard.git) |
-| **Byte-Byte-Go** | Coding interview patterns & problem solving | [Repository](https://github.com/maheswari-pinneti/Byte-Byte-Go) · [Clone](https://github.com/maheswari-pinneti/Byte-Byte-Go.git) |
+| **Chest X-ray Classifier** | Computer vision and image classification | [Repository](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier) · [Clone](https://github.com/maheswari-pinneti/Chest-X-ray-Classifier.git) |
+| **DeepFake Face Detection using LSTM** | AI/ML and deep-learning exploration | [Repository](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM) · [Clone](https://github.com/maheswari-pinneti/DeepFake-Face-Detection-using-LSTM.git) |
+| **Myntra Sales Analysis Dashboard** | Sales data analysis and visualization | [Repository](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard) · [Clone](https://github.com/maheswari-pinneti/Myntra-Sales-Analysis-Dashboard.git) |
+| **Byte-Byte-Go** | Coding interview patterns and problem solving | [Repository](https://github.com/maheswari-pinneti/Byte-Byte-Go) · [Clone](https://github.com/maheswari-pinneti/Byte-Byte-Go.git) |
 
 ---
 
@@ -115,26 +185,21 @@ A curated starting point for exploring my work. Each repository includes its sou
 | **Mahi UI Component Playground** | UI component playground and frontend experiments | [Repository](https://github.com/mahi-developer-universe/mahi-ui-component-playground) · [Clone](https://github.com/mahi-developer-universe/mahi-ui-component-playground.git) |
 | **Mahi API Verse** | API-related project under the organization | [Repository](https://github.com/mahi-developer-universe/mahi-api-verse) · [Clone](https://github.com/mahi-developer-universe/mahi-api-verse.git) |
 
-➡️ Browse all organization repositories: [github.com/mahi-developer-universe](https://github.com/mahi-developer-universe)
+➡️ Browse all organization repositories: [Mahi Developer Universe](https://github.com/mahi-developer-universe)
 
 ---
 
 ## 🗂️ All Repositories
 
-A full directory of repositories on my personal account. Expand a category to see its projects. Visibility and availability may vary.
+A directory of projects, coding practice, learning resources and experiments on my GitHub account.
 
 <details>
-<summary><b>💻 Frontend, Web Applications &amp; Dashboards</b> &nbsp;(14)</summary>
+<summary><b>💻 Frontend, Web Applications & Dashboards</b></summary>
 
 <br/>
 
 | Repository | Description | Links |
 |---|---|---|
-| **WFA-Rolebased-Architecture** | Workforce analytics and role-based application | [Repo](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture) · [Clone](https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture.git) |
-| **WFA-SQLITE-Frontend-project** | SQLite-focused workforce frontend project | [Repo](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project) · [Clone](https://github.com/maheswari-pinneti/WFA-SQLITE-Frontend-project.git) |
-| **Workforce-Analytics-Dashboard-Shell** | Workforce dashboard shell | [Repo](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell) · [Clone](https://github.com/maheswari-pinneti/Workforce-Analytics-Dashboard-Shell.git) |
-| **WorkForce-Analytics-Task8** | Workforce analytics task project | [Repo](https://github.com/maheswari-pinneti/WorkForce-Analytics-Task8) · [Clone](https://github.com/maheswari-pinneti/WorkForce-Analytics-Task8.git) |
-| **WorkForce-Analytics-Dashboard-** | Workforce analytics dashboard project | [Repo](https://github.com/maheswari-pinneti/WorkForce-Analytics-Dashboard-) · [Clone](https://github.com/maheswari-pinneti/WorkForce-Analytics-Dashboard-.git) |
 | **HR-Dashboard-Analytics** | HR dashboard and analytics | [Repo](https://github.com/maheswari-pinneti/HR-Dashboard-Analytics) · [Clone](https://github.com/maheswari-pinneti/HR-Dashboard-Analytics.git) |
 | **CRM-WEB-APPLICATION** | CRM web application | [Repo](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION) · [Clone](https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION.git) |
 | **Doctor-Appointment-System** | Doctor appointment system | [Repo](https://github.com/maheswari-pinneti/Doctor-Appointment-System) · [Clone](https://github.com/maheswari-pinneti/Doctor-Appointment-System.git) |
@@ -148,7 +213,7 @@ A full directory of repositories on my personal account. Expand a category to se
 </details>
 
 <details>
-<summary><b>🎨 UI, APIs &amp; Developer Resources</b> &nbsp;(16)</summary>
+<summary><b>🎨 UI, APIs & Developer Resources</b></summary>
 
 <br/>
 
@@ -174,7 +239,27 @@ A full directory of repositories on my personal account. Expand a category to se
 </details>
 
 <details>
-<summary><b>🧠 AI, Machine Learning &amp; Data</b> &nbsp;(6)</summary>
+<summary><b>🐍 Python Programming & Learning</b></summary>
+
+<br/>
+
+*This section can grow as I build Python fundamentals, programming exercises, automation scripts and projects.*
+
+| Learning Area | Focus |
+|---|---|
+| Python Fundamentals | Variables, data types, operators and expressions |
+| Control Flow | Conditional statements and loops |
+| Data Structures | Lists, tuples, sets and dictionaries |
+| Functions | Functions, arguments, return values and scope |
+| OOP | Classes, objects, inheritance and encapsulation |
+| Automation | Python scripts and repetitive task automation |
+| Data Processing | Working with files, data and libraries |
+| Projects | Small projects to strengthen problem-solving |
+
+</details>
+
+<details>
+<summary><b>🧠 AI, Machine Learning & Data</b></summary>
 
 <br/>
 
@@ -190,7 +275,49 @@ A full directory of repositories on my personal account. Expand a category to se
 </details>
 
 <details>
-<summary><b>🧩 Coding Practice &amp; Interview Preparation</b> &nbsp;(8)</summary>
+<summary><b>☁️ Salesforce Development & Learning</b></summary>
+
+<br/>
+
+| Repository | Description | Links |
+|---|---|---|
+| **Salesforce-LWC-Developer-Notes** | Salesforce LWC developer notes | [Repo](https://github.com/maheswari-pinneti/Salesforce-LWC-Developer-Notes) · [Clone](https://github.com/maheswari-pinneti/Salesforce-LWC-Developer-Notes.git) |
+| **Salesforce-LWC-and-ADMIN-Notes** | Salesforce LWC and Admin notes | [Repo](https://github.com/maheswari-pinneti/Salesforce-LWC-and-ADMIN-Notes) · [Clone](https://github.com/maheswari-pinneti/Salesforce-LWC-and-ADMIN-Notes.git) |
+| **Salesforce-LWC-Developer-Projects** | Salesforce development projects | [Repo](https://github.com/maheswari-pinneti/Salesforce-LWC-Developer-Projects) · [Clone](https://github.com/maheswari-pinneti/Salesforce-LWC-Developer-Projects.git) |
+
+</details>
+
+<details>
+<summary><b>🔐 Cybersecurity & Security Learning</b></summary>
+
+<br/>
+
+*An evolving learning area focused on understanding web application security, API security, secure development and responsible security testing.*
+
+| Learning Area | Focus |
+|---|---|
+| **Cybersecurity Fundamentals** | Networking, HTTP, HTTPS, authentication and authorization |
+| **Web Application Security** | Common web vulnerabilities and security principles |
+| **API Security** | API authentication, authorization and security testing |
+| **OWASP** | Learning common application security risks |
+| **Secure Frontend Development** | Client-side security and secure coding practices |
+| **Python Security Tools** | Scripting and automation for learning |
+| **Bug Bounty Learning** | Methodology, vulnerability analysis and responsible disclosure |
+
+### Learning Resources
+
+- [OWASP](https://owasp.org/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com/)
+- [HackerOne](https://www.hackerone.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+
+*Security testing and experimentation are conducted only in authorized labs, systems or programs that explicitly permit testing.*
+
+</details>
+
+<details>
+<summary><b>🧩 Coding Practice & Interview Preparation</b></summary>
 
 <br/>
 
@@ -225,7 +352,7 @@ A full directory of repositories on my personal account. Expand a category to se
 </td>
 <td width="50%" valign="top">
 
-### 📜 Certifications
+### 📜 Certifications & Learning
 
 - Databricks Generative AI Fundamentals
 - Applied AI Lab — WorldQuant University
@@ -245,6 +372,7 @@ A full directory of repositories on my personal account. Expand a category to se
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=maheswari-pinneti&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub statistics" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari-pinneti&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
 
 <br/>
@@ -261,7 +389,7 @@ Use a repository's `.git` URL to clone it locally.
 
 ```bash
 # Personal repository
-git clone https://github.com/maheswari-pinneti/WFA-Rolebased-Architecture.git
+git clone https://github.com/maheswari-pinneti/CRM-WEB-APPLICATION.git
 
 # Organization repository
 git clone https://github.com/mahi-developer-universe/mahi-ui-verse.git
@@ -273,18 +401,15 @@ git clone https://github.com/mahi-developer-universe/mahi-ui-verse.git
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with developers, recruiters, and technology enthusiasts to exchange ideas, discuss projects, and explore collaboration opportunities.
+I'm happy to connect with developers, recruiters, and technology enthusiasts to exchange ideas, discuss projects, learn together, and explore collaboration opportunities.
 
 <div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheswari-pinneti)
-[![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahi-developer-universe)
 
 <br/>
 
 ### ✨ Building Today. Improving Every Day.
 
-*"Turning ideas into intuitive digital experiences through clean code, thoughtful design, and continuous learning."*
+*"Building applications, connecting technologies, and continuously expanding my knowledge across software development and security."*
 
 <br/>
 
@@ -292,4 +417,10 @@ I'm happy to connect with developers, recruiters, and technology enthusiasts to 
 
 </div>
 
-<sub>**Note:** This README is a directory of projects discovered for the account and organization. Some repositories may be experiments, learning resources, forks, renamed projects, or works in progress. Please check each repository for its current status, implementation, and license before using or contributing.</sub>
+<sub>**Note:** This README is a directory of projects, learning resources and experiments. Some repositories may be learning projects, forks, renamed projects, or works in progress. Please check each repository for its current status, implementation, and license before using or contributing.</sub>
+
+<div align="center">
+
+**Made with ❤️ by Maheswari Pinneti**
+
+</div>
